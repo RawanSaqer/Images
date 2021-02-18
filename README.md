@@ -11,3 +11,14 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 5-Normalization
 
 6-Weather Transforms
+
+7-Keypoints augmentations  implemented for spatial transformations :
+* VerticalFlip
+* HorizontalFlip
+* Flip
+* RandomCrop
+* RandomRotate90
+* Rotate
+* CenterCrop
+* RandomSizedCrop
+* ShiftScaleRotate

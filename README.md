@@ -27,3 +27,5 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 * Convert the image to greyscale
 * kp is the keypoints
 * desc is the SIFT descriptors, they're 128-dimensional vectors that we can use for our final features
+
+9- Feature Extraction using Daisy Descriptor.

@@ -9,3 +9,5 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 4-Denoising and noise on an image
 
 5-Normalization
+
+6-Weather Transforms

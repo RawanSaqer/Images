@@ -29,3 +29,4 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 * desc is the SIFT descriptors, they're 128-dimensional vectors that we can use for our final features
 
 10- Feature Extraction using Daisy Descriptor.
+11- Feature extraction using HOG.

@@ -1,4 +1,5 @@
 # Images
--Reading the image
--Displaying the image and r, g, b channels
--Converting Color Spaces
+1-Reading, Displaying the image and r, g, b channels
+2-Converting Color Spaces
+3-Resizing,Rescaling preserving aspect ratio,Upscaling,Cropping,
+Rotation,Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.

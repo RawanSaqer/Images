@@ -29,4 +29,13 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 * desc is the SIFT descriptors, they're 128-dimensional vectors that we can use for our final features
 
 10- Feature Extraction using Daisy Descriptor.
+
 11- Feature extraction using HOG.
+
+12- Python tesseract.
+
+13- Perform a dictionary learning (and atom extraction) from the MNIST dataset.
+
+14- FeatureDetectionUsingConvolution.
+
+15- Reduce data dimensions by building an autoencoder

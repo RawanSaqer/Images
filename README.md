@@ -10,7 +10,7 @@ Flipping the image or creating mirror image,Warping,Swirl,Pooling the images.
 
 6- Normalization
 
-67- Weather Transforms
+7- Weather Transforms
 
 8- Keypoints augmentations  implemented for spatial transformations :
 * VerticalFlip
